@@ -10,6 +10,8 @@ import java.security.Security;
  */
 public class AESUtil {
 
+    public static void main(String[] args) {
 
+    }
 
 }
